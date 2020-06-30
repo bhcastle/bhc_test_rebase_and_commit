@@ -1,5 +1,5 @@
 class Foo
-  def method_1c
+  def method_1cd
     puts "foo"
   end
 end
